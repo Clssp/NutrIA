@@ -1,0 +1,17 @@
+# .streamlit/config.toml
+
+[theme]
+# Cor primária para elementos interativos
+primaryColor="#4CAF50"  # Verde vibrante
+
+# Cor de fundo principal
+backgroundColor="#0E1117" # Quase preto (modo escuro)
+
+# Cor de fundo para sidebars e elementos secundários
+secondaryBackgroundColor="#1C1C24" # Cinza escuro
+
+# Cor do texto
+textColor="#FAFAFA" # Branco
+
+# Fonte
+font="sans serif"

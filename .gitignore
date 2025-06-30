@@ -1,0 +1,12 @@
+# Arquivos de dados e perfil (não devem ir para o Git)
+diario_alimentar.csv
+perfil.json
+
+# Pasta de segredos do Streamlit
+.streamlit/secrets.toml
+
+# Arquivos de ambiente Python
+__pycache__/
+*.pyc
+.env
+venv/
